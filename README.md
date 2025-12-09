@@ -1,8 +1,6 @@
--    Hi, I’m @ElHamzi-Abderrahim
--   I’m interested in Embedded systems
--   I’m currently learning embedded C and Java 
+-   Hi, I’m @ElHamzi-Abderrahim
+-   A Hardware Engineer
 
-<!---
-ElHamzi-Abderrahim/ElHamzi-Abderrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Abderrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElHamzi-Abderrahim)](https://github.com/ElHamzi-Abderrahim/github-readme-stats)
+
+
