@@ -1,6 +1,5 @@
--   Hi, I’m @ElHamzi-Abderrahim
--   A Hardware Engineer
-
-[![Abderrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElHamzi-Abderrahim)](https://github.com/anuraghazra/github-readme-stats)
-
+- Hi, I’m @ElHamzi-Abderrahim
+- :man_technologist: Jr. Hardware Engineer
+- :hammer_and_wrench: My projects are located under my [Portfolio](https://github.com/ElHamzi-Abderrahim/portfolio.git) repository.
+- :mailbox: My email address: abderrahimelhamzi.dev@gmail.com
 
